@@ -1,0 +1,1 @@
+sudo dasm.Linux.x86 demo.asm -f3 -odemo.bin
